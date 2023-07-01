@@ -1,0 +1,28 @@
+Server join request accepted
+
+Client #1 - Eddie joined server at 12/03/2022 19:00:12 pm
+Server join request accepted
+
+Client #2 - Maria joined server at 12/03/2022 19:00:16 pm
+Question: 45*6 asked by Eddie
+Answer: 270.0
+Question: 100-45 asked by Eddie
+Answer: 55.0
+Question: 8/3 asked by Maria
+Answer: 2.67
+Question: 36+27 asked by Maria
+Answer: 63.0
+Server join request accepted
+
+Client #3 - Messi joined server at 12/03/2022 19:00:20 pm
+Question: 24*6 asked by Messi
+Answer: 144.0
+Question: 45-3 asked by Messi
+Answer: 42.0
+Question: 8/2 asked by Eddie
+Answer: 4.00
+Eddie left server at 12/03/2022 19:03:19 pm and was connected for 187079 milliseconds
+Messi left server at 12/03/2022 19:03:35 pm and was connected for 194460 milliseconds
+Question: 2+1 asked by Maria
+Answer: 3.0
+Maria left server at 12/03/2022 19:03:47 pm and was connected for 211286 milliseconds
